@@ -1,0 +1,4 @@
+baseURL = 'https://inam.io/'
+languageCode = 'en-us'
+title = 'Inam.io'
+theme = "ananke"
